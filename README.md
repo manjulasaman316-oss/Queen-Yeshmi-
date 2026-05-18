@@ -3,14 +3,14 @@
     <summary><b>ඔබන්න බලන්න 👀</b></summary>
     
  
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3EF76A&lines=THIS+IS+ZED+BOT;THIS+BOT+OWNER+IS+IMASH+NIDUSHA)](https://git.io/typing-svg)
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3EF76A&lines=YEP+THIS+IS+QUEEN+YESHU;OWNER+DIWAN+KAVISHKA)](https://git.io/typing-svg)
 <div align="center">
 
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=771323434+-+WHATSAPP;MY+NUMBER+)](https://git.io/typing-svg)<div align="center">
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=94710424212+-+WHATSAPP;MY+NUMBER+)](https://git.io/typing-svg)<div align="center">
  </a>
 </p>
 
- <h1 align="center"><b> Z BOT V2 -CREATE BY IMASH NIDUSHA  </b></h1>
+ <h1 align="center"><b> QUEEN YESHU V01 -CREATE BY DIWAN KAWISHKA  </b></h1>
  
 ![logo](https://www.linkpicture.com/q/IMG-20210930-WA0003_8.jpg)
 
@@ -18,7 +18,7 @@
  
 </div>
 <p align="center">
-Project created by <a href="https://github.com/cyberchekuthan">iMASH BOT</a> to make it public
+Project created by <a href="https://github.com/cyberchekuthan">QUEEN YESHH BOT</a> to make it public
     <br>
        | © |
         Reserved |
